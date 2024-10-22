@@ -1,4 +1,4 @@
-# Data Mining and Machine Learning Project
+# University Project
 # Podcast Reviews Analysis
 
 ## Overview
